@@ -1,5 +1,5 @@
 # pitching
-창업 전문 사이트
+창업 전문 사이트(JSP Project)
 
 ## 주요 기술 및 개발환경
 ### Front-end
