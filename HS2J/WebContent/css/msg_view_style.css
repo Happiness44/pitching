@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+.msgContainer{
+	width: 700px;
+	margin: 0 auto;
+	border: 2px solid gray;
+}

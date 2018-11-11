@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+.reqContainer{
+	width: 700px;
+	margin: 0 auto;
+	border: 2px solid gray;
+}
+
+ul.reqTabs{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+ul.reqTabs li{
+	background: none;
+	color: #222;
+	background: #99cfff;
+	display: inline-block;
+	padding: 5px 5px;
+	cursor: pointer;
+	width : 345px;
+}
+
+ul.reqTabs li.current{
+	background: #77bfff;
+	color: #222;
+}
+
+.tab-content{
+	display: none;
+	background:#ffffff;
+	padding: 15px;
+}
+
+.tab-content.current{
+	display: inherit;
+}
+
+

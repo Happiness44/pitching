@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir = "/theme">
+        <decorator name = "test_theme" page = "test_theme.jsp">
+                <pattern>/*</pattern>
+        </decorator>
+        <excludes>
+        	<pattern>/main/confirmId*</pattern>
+        	<pattern>/main/loginCheck.jsp*</pattern>
+			<pattern>/my_page/msg/msg_new.jsp*</pattern>
+			<pattern>/my_page/msg/msg_multiView_connected.jsp</pattern>
+			<pattern>/my_page/msg/msg_oneView.jsp</pattern>
+			<pattern>/item/req_new.jsp</pattern>
+			<pattern>/comm/*</pattern>
+			<pattern>*.json*</pattern>
+			<pattern>/my_page/msg/msg_complete.jsp*</pattern>
+        </excludes>
+
+</decorators>

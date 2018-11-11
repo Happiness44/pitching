@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+body{
+	border : 3px solid orange;
+	background: #f9eed6;
+	padding : 3px;
+}
+
+#title, #contents {
+	padding : 3px;
+	border : 3px solid orange;
+	background : #f9eed6;
+	
+}
+
+.btn{
+	background-color: orange;
+	color: white;
+	border : none;
+	font-size : 20px;
+}
